@@ -1,0 +1,4 @@
+[15] J. Fu, B. Liu, J. Gu, et al., ?Research on stock index prediction based on the spatiotemporal attention BiLSTM model,? Mathematics, vol. 12, no. 18, Art. no. 2812, 2024, doi: 10.3390/math12182812.
+[16] W. J. Liu, Y. B. Ge, and Y. C. Gu, ?News-driven stock market index prediction based on trellis network and sentiment attention mechanism,? Expert Systems with Applications, vol. 250, Art. no. 123966, 2024, doi: 10.1016/j.eswa.2024.123966.
+[17] J. Zhang, L. Ye, and Y. Lai, ?Stock price prediction using CNN?BiLSTM Attention model,? Mathematics, vol. 11, no. 9, Art. no. 1985, 2023, doi: 10.3390/math11091985.
+[18] A. Vaswani, N. Shazeer, N. Parmar, et al. Attention Is All You Need. Advances in Neural Information Processing Systems, 2017.
